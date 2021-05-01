@@ -12,3 +12,8 @@ Roles:
 ## Description of Website:
 
 - The webpage is about different types of dog breeds and we aim to target audience who are interested in learning more about dogs or are looking for more information about a particular breed.
+
+## Sources used:
+
+- (https://www.akc.org/dog-breeds/cairn-terrier/)
+- (https://www.akc.org/dog-breeds/chihuahua/)
