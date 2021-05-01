@@ -17,3 +17,5 @@ Roles:
 
 - (https://www.akc.org/dog-breeds/cairn-terrier/)
 - (https://www.akc.org/dog-breeds/chihuahua/)
+- (https://www.akc.org/dog-breeds/german-shepherd-dog/)
+- (https://www.akc.org/dog-breeds/samoyed/)
