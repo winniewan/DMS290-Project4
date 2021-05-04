@@ -41,19 +41,20 @@
 
     <!-- APPEARANCE -->
     <section>
-      <div>
-        <h3>Appearance</h3>
-        <p>
-          Size: L
-        </p>
-
-        <p>
-          Height: 24-26 inches
-        </p>
-
-        <p>
-          Weight: 50-90 lbs
-        </p>
+      <h3 class="pb-2">Appearance</h3>
+      <div class="row text-light" id="attribute-row">
+        <div class="col mx-4 d-flex flex-column justify-content-center align-items-center" id="attribute-card">
+          <p>L</p>
+          <h2>Size</h2>
+        </div>
+        <div class="col mx-4 d-flex flex-column justify-content-center align-items-center" id="attribute-card">
+          <p>24-26in</p>
+          <h2>Height</h2>
+        </div>
+        <div class="col mx-4 d-flex flex-column justify-content-center align-items-center" id="attribute-card">
+          <p>50-90lb</p>
+          <h2>Weight</h2>
+        </div>
       </div>
     </section>
 
