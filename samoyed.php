@@ -9,9 +9,7 @@
     <header>
       <?php include "includes/nav.php" ?>
     </header>
-
-    <div class="container">
-      <main>
+      <main class="container-fluid">
         <section>
           <h2>Samoyed</h2>
         </section>
@@ -122,7 +120,6 @@
           </div>
         </section>
       </main>
-    </div>
     <?php include "includes/footer.php" ?>
   </body>
 </html>

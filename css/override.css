@@ -2,6 +2,10 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+main {
+    background-color: #F0B777;
+}
+
 .navbar {
     background-color: #B36813;
 }
