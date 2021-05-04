@@ -42,7 +42,7 @@
         </section>
 
         <!-- APPEARANCE -->
-        <section>
+        <section class="pt-4">
           <h3 class="pb-2">Appearance</h3>
           <div class="row text-light" id="attribute-row">
             <div class="col mx-4 d-flex flex-column justify-content-center align-items-center" id="attribute-card">
@@ -62,7 +62,7 @@
 
         <!-- TEMPERAMENT -->
         <section>
-          <h3>Temperament</h3>
+          <h3 class="py-4">Temperament</h3>
           <div class="row">
             <div class="col">
               <h4>Personality</h4>
@@ -100,7 +100,7 @@
 
         <!-- CARE -->
         <section>
-          <h3>Care</h3>
+          <h3 class="pb-4">Care</h3>
           <div class="row">
             <div class="col">
               <h4>Health</h4>
