@@ -59,36 +59,39 @@
 
     <!-- TEMPERAMENT -->
     <section>
-      <div>
-        <h3>Temperament</h3>
-
-        <h4>Personality</h4>
-        <p>
-          Generally considered dogkind’s finest all-purpose worker, the German Shepherd Dog is a large, agile,
-          muscular dog of noble character and high intelligence. Loyal, confident, courageous, and steady, the
-          German Shepherd is truly a dog lover’s delight. German Shepherd Dogs can stand as high as 26 inches at
-          the shoulder and, when viewed in outline, presents a picture of smooth, graceful curves rather than angles.
-          The natural gait is a free-and-easy trot, but they can turn it up a notch or two and reach great speeds.
-        </p>
-
-        <h4>Activities</h4>
-        <p>
-          As a very active and athletic breed, the German Shepherd requires lots of exercise for his physical
-          and mental well-being. A dog who is not exercised enough will become frustrated and likely to develop
-          undesirable behaviors. With a puppy, you can start with short daily walks, as well as play sessions
-          in a safely fenced area. Remember to not let the dog off leash, as even the best-trained dog can become
-          distracted and not follow every command. Participating in canine activities such as agility, herding.
-        </p>
-
-        <h4>Training</h4>
-        <p>
-          Early socialization and puppy training classes are vital, and continuing obedience training will help
-          ensure that the pup will grow to be an adaptable and well-mannered adult. The German Shepherd is a highly
-          intelligent companion and an extraordinary worker. Consistency and positive, reward-based training will
-          yield excellent results. He is extremely bonded to his people, so he is happiest when he lives with his
-          family. He should be raised in the household and exposed to the family’s activities. The German Shepherd
-          Dog Club of America provides detailed training advice for owners on the club’s website.
-        </p>
+      <h3>Temperament</h3>
+      <div class="row">
+        <div class="col">
+          <h4>Personality</h4>
+          <p>
+            Generally considered dogkind’s finest all-purpose worker, the German Shepherd Dog is a large, agile,
+            muscular dog of noble character and high intelligence. Loyal, confident, courageous, and steady, the
+            German Shepherd is truly a dog lover’s delight. German Shepherd Dogs can stand as high as 26 inches at
+            the shoulder and, when viewed in outline, presents a picture of smooth, graceful curves rather than angles.
+            The natural gait is a free-and-easy trot, but they can turn it up a notch or two and reach great speeds.
+          </p>
+        </div>
+        <div class="col">
+          <h4>Activities</h4>
+          <p>
+            As a very active and athletic breed, the German Shepherd requires lots of exercise for his physical
+            and mental well-being. A dog who is not exercised enough will become frustrated and likely to develop
+            undesirable behaviors. With a puppy, you can start with short daily walks, as well as play sessions
+            in a safely fenced area. Remember to not let the dog off leash, as even the best-trained dog can become
+            distracted and not follow every command. Participating in canine activities such as agility, herding.
+          </p>
+        </div>
+        <div class="col">
+          <h4>Training</h4>
+          <p>
+            Early socialization and puppy training classes are vital, and continuing obedience training will help
+            ensure that the pup will grow to be an adaptable and well-mannered adult. The German Shepherd is a highly
+            intelligent companion and an extraordinary worker. Consistency and positive, reward-based training will
+            yield excellent results. He is extremely bonded to his people, so he is happiest when he lives with his
+            family. He should be raised in the household and exposed to the family’s activities. The German Shepherd
+            Dog Club of America provides detailed training advice for owners on the club’s website.
+          </p>
+        </div>
       </div>
     </section>
 
