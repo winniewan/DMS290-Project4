@@ -1,9 +1,12 @@
-<footer>
-    <p>Made with ❤️ by</p>
-    <p>Winnie Wan</p>
-    <p>Emma Campbell</p>
-    <p>DMS 290 Front End Web Design 2021</p>
-    <div>
+<footer class="container-fluid d-flex flex-row text-light p-4">
+    <div class="d-flex flex-column justify-content-center">
+        <p>Made with ❤️ by</p>
+        <p>Winnie Wan</p>
+        <p>Emma Campbell</p>
+        <p>DMS 290 Front End Web Design 2021</p>
+    </div>
+    <div class="divider"></div>
+    <div class="d-flex flex-column justify-content-center ps-4">
         <p>Sources</p>
         <ul>
             <li><a href="https://www.akc.org/dog-breeds/chihuahua/">Chihuahua</a></li>

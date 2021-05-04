@@ -13,6 +13,24 @@ p {
     max-width: 75px;
 }
 
+footer {
+    background-color: #7D3D1A;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer li {
+    font-size: 12px;
+}
+
+.divider {
+    position: relative;
+    border-left: 3px solid #ffffff;
+    height: 90%;
+}
+
 #logo a {
     text-decoration: none;
 }
