@@ -1,9 +1,14 @@
 body {
     font-family: 'Oswald', sans-serif;
+    background-color: #F0B777;
 }
 
 main {
     background-color: #F0B777;
+}
+
+section {
+    padding-bottom: 2rem;
 }
 
 .navbar {
@@ -12,5 +17,4 @@ main {
 
 .navbar .nav-link .nav-item {
     color: #ffffff;
-    
 }

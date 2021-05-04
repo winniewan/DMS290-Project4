@@ -1,36 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rock+Salt&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rock+Salt&display=swap");
 
-
-h1, h2, h3, h4 {
-    font-family: 'Rock Salt', cursive;
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Rock Salt", cursive;
 }
 
 p {
-    font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 
 .nav img {
-    max-width: 75px;
+  max-width: 75px;
 }
 
 footer {
-    background-color: #7D3D1A;
+  background-color: #7d3d1a;
 }
 
 footer p {
-    margin: 0;
+  margin: 0;
 }
 
 footer li {
-    font-size: 12px;
+  font-size: 12px;
 }
 
 .divider {
-    position: relative;
-    border-left: 3px solid #ffffff;
-    height: 90%;
+  position: relative;
+  border-left: 3px solid #ffffff;
+  height: 90%;
 }
 
 #logo a {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+#attribute-card {
+  background-color: #eaa250;
+  box-shadow: #7D3D1A -10px 10px;
+}
+
+#attribute-card p {
+    font-size: 7em;
+}
+
+#attribute-row {
+  height: 100%;
 }
