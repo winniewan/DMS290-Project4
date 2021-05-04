@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Dogs</title>
+  <title>Cairn Terrier</title>
   <?php include "includes/head.php" ?>
 </head>
 
@@ -102,7 +102,6 @@
         <!--  CARE -->
         <section>
           <h3 class="pb-4">Care</h3>
-
           <div class="row">
             <div class="col">
               <h4>Health</h4>
