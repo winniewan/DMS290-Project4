@@ -2,21 +2,12 @@
 <html lang="en">
   <head>
     <title>Dogs</title>
+    <?php include "includes/head.php" ?>
   </head>
   
   <body>
     <header>
-      <div>
-        <h1><a href="index.html">Dogs</a></h1>
-        <nav class="menu">
-          <ul>
-            <li><a href="chihuahua.html">Chihuahua</a></li>
-            <li><a href="cairn-terrier.html">Cairn Terrier</a></li>
-            <li><a href="samoyed.html">Samoyed</a></li>
-            <li><a href="german-shepherd.html">German Shepherd</a></li>
-          </ul>
-        </nav>
-      </div>
+      <?php include "includes/nav.php" ?>
     </header>
 
     <div class="container">
@@ -132,18 +123,6 @@
         </section>
       </main>
     </div>
-    <footer>
-      <p>Made with Love by Winnie Wan and Emma Campbell</p>
-      <p>DMS 290 Front End Web Design 2021</p>
-      <div>
-          <p>Sources</p>
-          <ul>
-            <li><a href="https://www.akc.org/dog-breeds/chihuahua/">Chihuahua</a></li>
-            <li><a href="https://www.akc.org/dog-breeds/cairn-terrier/">Cairn Terrier</a></li>
-            <li><a href="https://www.akc.org/dog-breeds/samoyed/">Samoyed</a></li>
-            <li><a href="https://www.akc.org/dog-breeds/german-shepherd-dog/">German Shepherd</a></li>
-          </ul>
-      </div>
-    </footer>
+    <?php include "includes/footer.php" ?>
   </body>
 </html>

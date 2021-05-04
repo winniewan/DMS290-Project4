@@ -2,21 +2,12 @@
 <html lang="en">
   <head>
     <title>Dogs</title>
+    <?php include "includes/head.php" ?>
   </head>
   
   <body>
     <header>
-      <div>
-        <h1><a href="index.html">Dogs</a></h1>
-        <nav class="menu">
-          <ul>
-            <li><a href="sample.html">Breed 1</a></li>
-            <li><a href="sample.html">Breed 2</a></li>
-            <li><a href="sample.html">Breed 3</a></li>
-            <li><a href="sample.html">Breed 4</a></li>
-          </ul>
-        </nav>
-      </div>
+      <?php include "includes/nav.php"?>
     </header>
 
     <div class="container">
@@ -133,18 +124,6 @@
         </section>
       </main>
     </div>
-    <footer>
-      <p>Made with Love by Winnie Wan and Emma Campbell</p>
-      <p>DMS 290 Front End Web Design 2021</p>
-      <div>
-          <p>Sources</p>
-          <ul>
-              <li><a href= "">Source 1</a></li>
-              <li><a href= "">Source 2</a></li>
-              <li><a href= "">Source 3</a></li>
-              <li><a href= "">Source 4</a></li>
-          </ul>
-      </div>
-    </footer>
+    <?php include "includes/footer.php"?>
   </body>
 </html>
