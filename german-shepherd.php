@@ -11,11 +11,14 @@
     <?php include "includes/nav.php" ?>
   </header>
   <main class="container-fluid">
+    <!-- INTRODUCTION -->
     <section>
       <h2>German Shepherd</h2>
-    </section>
-    <section>
       <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg" alt="german shepherd" class="" />
+    </section>
+
+    <!-- HISTORY -->
+    <section>
       <div>
         <h3>History</h3>
         <p>
@@ -35,6 +38,8 @@
         </p>
       </div>
     </section>
+
+    <!-- APPEARANCE -->
     <section>
       <div>
         <h3>Appearance</h3>
@@ -51,6 +56,8 @@
         </p>
       </div>
     </section>
+
+    <!-- TEMPERAMENT -->
     <section>
       <div>
         <h3>Temperament</h3>
@@ -84,39 +91,44 @@
         </p>
       </div>
     </section>
+
+    <!-- CARE -->
     <section>
-      <div>
-        <h3>Care</h3>
-
-        <h4>Health</h4>
-        <p>
-          Most German Shepherds are healthy dogs. A responsible breeder will screen breeding stock for health conditions
-          such as degenerative myelopathy and elbow and hip dysplasia. German Shepherd Dogs can experience bloat, a sudden
-          and life-threatening swelling of the abdomen, and owners should educate themselves about its symptoms and what to
-          do should bloat occur. There are many reasons why German Shepherds stand in the front rank of canine royalty, but
-          experts say their defining attribute is character: loyalty, courage, confidence, the ability to learn commands.
-        </p>
-
-        <h4>Diet</h4>
-        <p>
-          A high-quality dog food appropriate for the dog’s age (puppy, adult, or senior) will have all the nutrients the
-          breed needs. Table scraps can cause digestive upset, so only give them sparingly, if at all, especially avoiding
-          cooked bones and foods with high fat content. Small pieces of biscuit or the dog’s kibble can be used as treats
-          for training. If you are feeding a high-quality food, vitamin and mineral supplements should not be necessary,
-          although adding small quantities of yogurt, cooked vegetables, or eggs to the food can be beneficial. Learn about
-          which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog’s
-          weight or diet.
-        </p>
-
-        <h4>Grooming</h4>
-        <p>
-          The German Shepherd Dog has a medium-length, double coat consisting of a dense, harsh, and close-lying outer
-          coat with a softer undercoat. The breed is easy to maintain, usually requiring just a quick brushing every
-          few days or so to help remove loose hairs, but they do shed more profusely once or twice a year. During
-          these periods, more frequent brushing will help control the amount of hair that ends up around the house
-          and on the furniture. The German Shepherd only needs an occasional bath. It is important to trim or grind
-          his nails every month if they are not worn down naturally, as overly long nails can cause pain and structural issues.
-        </p>
+      <h3>Care</h3>
+      <div class="row">
+        <div class="col">
+          <h4>Health</h4>
+          <p>
+            Most German Shepherds are healthy dogs. A responsible breeder will screen breeding stock for health conditions
+            such as degenerative myelopathy and elbow and hip dysplasia. German Shepherd Dogs can experience bloat, a sudden
+            and life-threatening swelling of the abdomen, and owners should educate themselves about its symptoms and what to
+            do should bloat occur. There are many reasons why German Shepherds stand in the front rank of canine royalty, but
+            experts say their defining attribute is character: loyalty, courage, confidence, the ability to learn commands.
+          </p>
+        </div>
+        <div class="col">
+          <h4>Diet</h4>
+          <p>
+            A high-quality dog food appropriate for the dog’s age (puppy, adult, or senior) will have all the nutrients the
+            breed needs. Table scraps can cause digestive upset, so only give them sparingly, if at all, especially avoiding
+            cooked bones and foods with high fat content. Small pieces of biscuit or the dog’s kibble can be used as treats
+            for training. If you are feeding a high-quality food, vitamin and mineral supplements should not be necessary,
+            although adding small quantities of yogurt, cooked vegetables, or eggs to the food can be beneficial. Learn about
+            which human foods are safe for dogs, and which are not. Check with your vet if you have any concerns about your dog’s
+            weight or diet.
+          </p>
+        </div>
+        <div class="col">
+          <h4>Grooming</h4>
+          <p>
+            The German Shepherd Dog has a medium-length, double coat consisting of a dense, harsh, and close-lying outer
+            coat with a softer undercoat. The breed is easy to maintain, usually requiring just a quick brushing every
+            few days or so to help remove loose hairs, but they do shed more profusely once or twice a year. During
+            these periods, more frequent brushing will help control the amount of hair that ends up around the house
+            and on the furniture. The German Shepherd only needs an occasional bath. It is important to trim or grind
+            his nails every month if they are not worn down naturally, as overly long nails can cause pain and structural issues.
+          </p>
+        </div>
       </div>
     </section>
   </main>
