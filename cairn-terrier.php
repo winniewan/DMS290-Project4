@@ -136,8 +136,8 @@
             </div>
           </div>
         </section>
-      </div>
-    </div>
+      </div> <!--- Container Fluid --->
+    </div> <!--- Card --->
   </main>
   <?php include "includes/footer.php" ?>
 </body>

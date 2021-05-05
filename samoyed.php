@@ -17,7 +17,7 @@
         <!-- INTRODUCTION -->
         <section class="text-center">
           <h1>Samoyed</h1>
-          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224728/Samoyed-On-White-03.jpg" alt="samoyed" class="" />
+          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224728/Samoyed-On-White-03.jpg" alt="samoyed" class="img-fluid" />
         </section>
 
         <!-- HISTORY -->
@@ -138,8 +138,8 @@
             </div>
           </div>
         </section>
-      </div>
-    </div>
+      </div> <!--- Container Fluid --->
+    </div> <!--- Card --->
   </main>
   <?php include "includes/footer.php" ?>
 </body>

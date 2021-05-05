@@ -11,13 +11,13 @@
     <?php include "includes/nav.php" ?>
   </header>
   <main class="container-fluid">
-
     <div class="card my-5 mx-5 p-4">
       <div class="container-fluid px-4">
+
         <!-- INTRODUCTION -->
         <section class="text-center">
           <h2>German Shepherd</h2>
-          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg" alt="german shepherd" class="" />
+          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg" alt="german shepherd" class="img-fluid" />
         </section>
 
         <!-- HISTORY -->
@@ -137,8 +137,8 @@
             </div>
           </div>
         </section>
-      </div>
-    </div>
+      </div> <!--- Container Fluid --->
+    </div> <!--- Card --->
   </main>
   <?php include "includes/footer.php" ?>
 </body>

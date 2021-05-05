@@ -1,20 +1,32 @@
 body {
-    font-family: 'Oswald', sans-serif;
-    background-color: #F0B777;
+  font-family: "Oswald", sans-serif;
+  background-color: #f0b777;
 }
 
 main {
-    background-color: #F0B777;
+  background-color: #f0b777;
 }
 
 section {
-    padding-bottom: 2rem;
+  padding-bottom: 2rem;
 }
 
 .navbar {
-    background-color: #B36813;
+  background-color: #b36813;
 }
 
 .navbar .nav-link .nav-item {
-    color: #ffffff;
+  color: #ffffff;
+}
+
+.details h3 {
+  color: #fff !important;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+.fadeInBottom {
+  top: 80%;
 }

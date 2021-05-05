@@ -17,7 +17,7 @@
         <!-- INTRODUCTION -->
         <section class="text-center">
           <h1>Chihuahua</h1>
-          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27134650/Chihuahua-standing-in-three-quarter-view.jpg" alt="chiuahua" class="" />
+          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27134650/Chihuahua-standing-in-three-quarter-view.jpg" alt="chiuahua" class="img-fluid" />
         </section>
 
         <!-- HISTORY -->
@@ -142,8 +142,8 @@
             </div>
           </div>
         </section>
-      </div>
-    </div>
+      </div> <!--- Container Fluid --->
+    </div> <!--- Card --->
   </main>
   <?php include "includes/footer.php" ?>
 </body>
