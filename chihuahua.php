@@ -85,6 +85,8 @@
                   Simply trotting around following their people is usually enough exercise for this happy breed.
                   Short, slow walks will keep your dog in good weight and condition. Avoid overexerting the Chihuahua.
                   If your dog is panting and working hard to keep up, it’s time to pick him up and carry him home.
+                  Chihuahuas love nothing more than being with their people — even novice pet parents — and require 
+                  a minimum of grooming and exercise. 
                 </p>
               </div>
               <div class="col">
