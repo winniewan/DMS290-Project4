@@ -36,9 +36,8 @@ footer a:hover {
 }
 
 .divider {
-  position: relative;
-  border-left: 3px solid #ffffff;
-  height: 90%;
+  margin-left: 2em;
+  border-left: 2px solid #ffffff;
 }
 
 #logo a {
@@ -57,4 +56,9 @@ footer a:hover {
 
 #attribute-row {
   height: 100%;
+}
+
+#course {
+  padding-top: 1em;
+  font-size: 10px;
 }

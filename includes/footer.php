@@ -3,7 +3,7 @@
         <p>Made with ❤️ by</p>
         <p>Winnie Wan</p>
         <p>Emma Campbell</p>
-        <p>DMS 290 Front End Web Design 2021</p>
+        <p id="course">DMS 290 Front End Web Design 2021</p>
     </div>
     <div class="divider"></div>
     <div class="d-flex flex-column justify-content-center ps-4">
