@@ -40,11 +40,11 @@ footer li {
 #attribute-card {
   background-color: #eaa250;
   box-shadow: #7D3D1A -10px 10px;
-  min-width: 300px;
+  min-width: 250px;
 }
 
 #attribute-card p {
-    font-size: 7em;
+    font-size: 5em;
 }
 
 #attribute-row {
