@@ -19,14 +19,6 @@ section {
   color: #ffffff;
 }
 
-.details h3 {
-  color: #fff !important;
-  font-weight: 500;
-  letter-spacing: 0.15em;
-  margin-bottom: 0.5em;
-  text-transform: uppercase;
-}
-
-.fadeInBottom {
-  top: 80%;
+.card {
+  border: none !important;
 }

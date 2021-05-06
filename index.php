@@ -15,22 +15,46 @@
     <section class="d-flex flex-column justify-content-center align-items-center">
       <div class="row justify-content-center">
         <div class="col-sm-4">
-          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27134650/Chihuahua-standing-in-three-quarter-view.jpg" alt="chiuahua" class="img-fluid" />
-          <h3><a class="nav-link text-white" href="chihuahua.php">Chihuahua</a></h3>
+          <a href="chihuahua.php">
+            <div class="card border-0">
+              <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27134537/Longhaired-Chihuahua-running-in-the-grass.jpg" alt="chiuahua" class="card-img" />
+              <div class="card-img-overlay d-flex flex-column justify-content-end">
+                <h3>Chihuahua</h3>
+              </div>
+            </div>
+          </a>
         </div>
         <div class="col-sm-4">
-          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12164822/Cairn-Terrier-sitting-in-the-grass.jpg" alt="cairn terrier" class="img-fluid" />
-          <h3><a class="nav-link text-white" href="cairn-terrier.php">Cairn Terrier</a></h3>
+          <a href="cairn-terrier.php">
+            <div class="card border-0">
+              <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12164822/Cairn-Terrier-sitting-in-the-grass.jpg" alt="cairn terrier" class="card-img" />
+              <div class="card-img-overlay d-flex flex-column justify-content-end">
+                <h3>Cairn Terrier</h3>
+              </div>
+            </div>
+          </a>
         </div>
       </div>
-      <div class="row justify-content-center">
+      <div class="row pt-4 justify-content-center">
         <div class="col-sm-4">
-          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20122208/Samoyed-standing-in-the-forest.jpg" alt="samoyed" class="img-fluid" />
-          <h3><a class="nav-link text-white" href="samoyed.php">Samoyed</a></h3>
+          <a href="samoyed.php">
+            <div class="card border-0">
+              <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20122208/Samoyed-standing-in-the-forest.jpg" alt="samoyed" class="card-img" />
+              <div class="card-img-overlay d-flex flex-column justify-content-end">
+                <h3>Samoyed</h3>
+              </div>
+            </div>
+          </a>
         </div>
         <div class="col-sm-4">
-          <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12213218/German-Shepherd-on-White-00.jpg" alt="german shepherd" class="img-fluid" />
-          <h3><a class="nav-link text-white" href="german-shepherd.php">German Shepherd</a></h3>
+          <a href="german-shepherd.php">
+            <div class="card border-0">
+              <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22170353/German-Shepherd-Dog-running.jpg" alt="german shepherd" class="card-img" />
+              <div class="card-img-overlay d-flex flex-column justify-content-end">
+                <h3>German Shepherd</h3>
+              </div>
+            </div>
+          </a>
         </div>
       </div>
     </section>

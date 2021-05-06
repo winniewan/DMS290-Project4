@@ -35,6 +35,19 @@ footer a:hover {
   color: #eaa250;
 }
 
+.col-sm-4 a {
+  color: inherit;
+}
+
+.card-img-overlay h3 {
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+}
+
+.card-img-overlay {
+  background-color: rgba(#000, 0.4);
+}
+
 .divider {
   margin-left: 2em;
   border-left: 2px solid #ffffff;
