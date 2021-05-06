@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Dogs</title>
+  <title>German Shepherd</title>
   <?php include "includes/head.php" ?>
 </head>
 
