@@ -40,6 +40,7 @@ footer li {
 #attribute-card {
   background-color: #eaa250;
   box-shadow: #7D3D1A -10px 10px;
+  min-width: 300px;
 }
 
 #attribute-card p {
