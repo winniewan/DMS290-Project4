@@ -27,6 +27,14 @@ footer li {
   font-size: 12px;
 }
 
+footer a {
+  color: inherit;
+}
+
+footer a:hover {
+  color: #eaa250;
+}
+
 .divider {
   position: relative;
   border-left: 3px solid #ffffff;
